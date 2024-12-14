@@ -1,0 +1,15 @@
+artifact_uri: file:///content/ml-ops/mlruns/0/34122714cb1b45ada533f773e7fe7c03/artifacts
+end_time: 1734196669733
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34122714cb1b45ada533f773e7fe7c03
+run_name: bedecked-shark-693
+run_uuid: 34122714cb1b45ada533f773e7fe7c03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734196658362
+status: 3
+tags: []
+user_id: root

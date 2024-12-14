@@ -1,0 +1,15 @@
+artifact_uri: file:///content/ml-ops/mlruns/0/7352a6a8547a46c69c0824b237a930ae/artifacts
+end_time: 1734196297997
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7352a6a8547a46c69c0824b237a930ae
+run_name: MLflow on Colab
+run_uuid: 7352a6a8547a46c69c0824b237a930ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734196296925
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///content/ml-ops/mlruns/0/f15809b370324cefb28c648aa322d1bb/artifacts
+end_time: 1734196657975
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f15809b370324cefb28c648aa322d1bb
+run_name: suave-steed-740
+run_uuid: f15809b370324cefb28c648aa322d1bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734196617663
+status: 3
+tags: []
+user_id: root
